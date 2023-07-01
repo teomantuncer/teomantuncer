@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on One Tech
+- 🌱 I'm currently learning how to be a parent.
+- 📫 How to reach me: send me an email to teoman at tuncer.dev
+
 <!--
 **teomantuncer/teomantuncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://randojs.com/images/barsSmall.gif)
