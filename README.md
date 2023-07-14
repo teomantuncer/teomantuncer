@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on One Tech
-- 🌱 I'm currently learning how to be a parent.
-- 📫 How to reach me: send me an email to teoman at tuncer.dev
+- 🔭 Working on One Tech
+- 🌱 Currently learning how to be a parent.
+- 📫 send me an email to teoman at tuncer.dev
 
 <!--
 **teomantuncer/teomantuncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
